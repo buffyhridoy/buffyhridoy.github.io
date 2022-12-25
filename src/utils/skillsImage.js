@@ -74,11 +74,37 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
+import keras from '../assets/svg/skills/keras.svg'
+import mlflow from '../assets/svg/skills/mlflow.svg'
+import powerbi from '../assets/svg/skills/powerbi.svg'
+import tableau from '../assets/svg/skills/tableau.svg'
+import excel from '../assets/svg/skills/excel.svg'
+import pandas from '../assets/svg/skills/pandas.svg'
+import flask from '../assets/svg/skills/flask.svg'
+import fastapi from '../assets/svg/skills/fastapi.svg'
+
+
 
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
+        case 'power bi':
+            return powerbi;
+        case 'tableau':
+            return tableau;
+        case 'excel':
+            return excel;
+        case 'pandas':
+            return pandas;
+        case 'flask':
+            return flask;
+        case 'fastapi':
+            return fastapi;
+        case 'mlflow':
+            return mlflow;
+        case 'keras':
+            return keras;
         case 'gcp':
             return gcp;
         case 'html':

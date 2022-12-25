@@ -7,6 +7,7 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { skillsData } from '../../data/skillsData'
 import { skillsImage } from '../../utils/skillsImage'
 
+
 function Skills() {
 
     const { theme } = useContext(ThemeContext);

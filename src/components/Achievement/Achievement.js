@@ -4,6 +4,7 @@ import './Achievement.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { achievementData } from '../../data/achievementData'
 import AchievementCard from './AchievementCard';
+import { Link } from 'react-router-dom';
 
 function Achievement() {
 
@@ -25,7 +26,10 @@ function Achievement() {
                         details={achieve.details}
                         date={achieve.date}
                         field={achieve.field}
-                        image={achieve.image}/>
+                        image={achieve.image}
+                        url={achieve.url}
+
+                        />
                     ))}
                 </div>
             </div>
