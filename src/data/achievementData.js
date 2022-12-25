@@ -4,7 +4,7 @@ export const achievementData = {
         {
             id : 1,
             title : 'Google Data Analytics Specialization | Coursera',
-            details : 'The Google Data Analytics Specialization is a series of Coursera courses that teach the skills needed to become a data analyst, including data manipulation, visualization, and machine learning, through video lectures, quizzes, and projects.',
+            details : '',
             date : 'April 2021 – May 2021',
             Credential_ID : '4RYVX8898WH7',
            url : 'https://coursera.org/share/069a6423fc32398263ed8ca46389119e'
@@ -12,7 +12,7 @@ export const achievementData = {
         {
             id : 2,
             title : 'Deep Learning Specialization | Coursera',
-            details : 'The Deep Learning Specialization is a series of five Coursera courses taught by Andrew Ng that cover the foundations of deep learning and how to apply it to tasks such as image and speech recognition, natural language processing, and more, through video lectures, quizzes, and programming assignments. ',
+            details : ' ',
             date : 'Aug 20, 2019',
             Credential_ID : '53XSJ5NXBJFX',
             image : 'https://coursera.org/share/9c0be0b7a116024002dc7113b8333f84'
