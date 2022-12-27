@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3c17d91.chunk.css",
-    "main.js": "/static/js/main.f8e77891.chunk.js",
-    "main.js.map": "/static/js/main.f8e77891.chunk.js.map",
+    "main.css": "/static/css/main.7f164b02.chunk.css",
+    "main.js": "/static/js/main.ce194d5f.chunk.js",
+    "main.js.map": "/static/js/main.ce194d5f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e0a5ee1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.e0a5ee1c.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.4b86afc6.chunk.js": "/static/js/2.4b86afc6.chunk.js",
-    "static/js/2.4b86afc6.chunk.js.map": "/static/js/2.4b86afc6.chunk.js.map",
+    "static/js/2.7f49f2c3.chunk.js": "/static/js/2.7f49f2c3.chunk.js",
+    "static/js/2.7f49f2c3.chunk.js.map": "/static/js/2.7f49f2c3.chunk.js.map",
     "static/js/3.4b13d975.chunk.js": "/static/js/3.4b13d975.chunk.js",
     "static/js/3.4b13d975.chunk.js.map": "/static/js/3.4b13d975.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.d3c17d91.chunk.css.map": "/static/css/main.d3c17d91.chunk.css.map",
-    "static/js/2.4b86afc6.chunk.js.LICENSE.txt": "/static/js/2.4b86afc6.chunk.js.LICENSE.txt",
+    "static/css/main.7f164b02.chunk.css.map": "/static/css/main.7f164b02.chunk.css.map",
+    "static/js/2.7f49f2c3.chunk.js.LICENSE.txt": "/static/js/2.7f49f2c3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/static/media/adobeaudition.afa937d5.svg",
@@ -28,7 +28,7 @@
     "static/media/boy1.f9c177c8.svg": "/static/media/boy1.f9c177c8.svg",
     "static/media/boy2.ece5c080.svg": "/static/media/boy2.ece5c080.svg",
     "static/media/boy3.a46b5f81.svg": "/static/media/boy3.a46b5f81.svg",
-    "static/media/buffy.27014c3e.png": "/static/media/buffy.27014c3e.png",
+    "static/media/buffy.61e0c992.jpg": "/static/media/buffy.61e0c992.jpg",
     "static/media/bulma.5910d441.svg": "/static/media/bulma.5910d441.svg",
     "static/media/bwTheme-boy.fbbb191f.svg": "/static/media/bwTheme-boy.fbbb191f.svg",
     "static/media/bwTheme-girl.c74f28ac.svg": "/static/media/bwTheme-girl.c74f28ac.svg",
@@ -163,8 +163,8 @@
   "entrypoints": [
     "static/js/runtime-main.e0a5ee1c.js",
     "static/css/2.19627560.chunk.css",
-    "static/js/2.4b86afc6.chunk.js",
-    "static/css/main.d3c17d91.chunk.css",
-    "static/js/main.f8e77891.chunk.js"
+    "static/js/2.7f49f2c3.chunk.js",
+    "static/css/main.7f164b02.chunk.css",
+    "static/js/main.ce194d5f.chunk.js"
   ]
 }
