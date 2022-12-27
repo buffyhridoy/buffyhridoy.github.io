@@ -9,6 +9,7 @@
     width: 100%;
 }
 
+
 .navbar--container {
     display: flex;
     align-items: center;
@@ -27,6 +28,7 @@
 
 .navLink--container {
     margin-top: 5rem;
+   
 }
 
 .drawer > .MuiBackdrop-root {

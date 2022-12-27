@@ -1,9 +1,10 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 
-import { Navbar, Footer, Landing, About, Skills, Testimonials, Blog, Education, Experience, Contacts, Projects, Services, Achievement } from '../../components'
+import { Navbar, Footer, Landing, Skills, Testimonials, Blog, Education, Experience, Contacts, Projects, Services, Achievement } from '../../components'
 import { headerData } from '../../data/headerData'
 import Publication from '../../components/Publication/Publication'
+import Newsletter from '../../components/Newsletter/Newsletter'
 
 function Main() {
     return (
@@ -14,7 +15,7 @@ function Main() {
 
             <Navbar />        
             <Landing />
-            <About />
+            <Newsletter/>
             <Blog />
             <Skills />
             <Achievement />

@@ -10,6 +10,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
 import CloseIcon from '@material-ui/icons/Close';
 
+
 import './Navbar.css';
 import { headerData } from '../../data/headerData';
 import { ThemeContext } from '../../contexts/ThemeContext';
@@ -47,7 +48,7 @@ function Navbar() {
             },
         },
         MuiDrawer: {
-            padding: '0em 1.8em',
+            padding: '0em 1.2em',
             width: '14em',
             fontFamily: ' var(--primaryFont)',
             fontStyle: ' normal',
@@ -134,7 +135,8 @@ function Navbar() {
         <div className='navbar'>
             <div className='navbar--container'>
                 <h1 style={{ color: theme.secondary }}>
-                    {shortname(headerData.name)}
+                    {/* {shortname(headerData.name)} */}
+                    BKhan
                 </h1>
 
                 <IoMenuSharp
@@ -195,9 +197,10 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        {/* <Fade left>
+
+                        <Fade left>
                             <NavLink
-                                to='/#about'
+                                to='/#newsletter'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
@@ -205,11 +208,11 @@ function Navbar() {
                                 <div className={classes.drawerItem}>
                                     <FaUser className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
-                                        About
+                                        Newsletter
                                     </span>
                                 </div>
                             </NavLink>
-                        </Fade> */}
+                        </Fade>
 
                         {/* <Fade left>
                             <NavLink

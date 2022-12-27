@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf';
-import image from '../assets/png/buffy.png';
+import image from '../assets/png/buffy.jpg';
 
 export const headerData = {
     name: 'Mohammad Badhruddouza Khan',
