@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d8284e96.chunk.css",
-    "main.js": "/static/js/main.dbdf085c.chunk.js",
-    "main.js.map": "/static/js/main.dbdf085c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.970658dd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.970658dd.js.map",
+    "main.css": "/static/css/main.d3c17d91.chunk.css",
+    "main.js": "/static/js/main.f8e77891.chunk.js",
+    "main.js.map": "/static/js/main.f8e77891.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e0a5ee1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e0a5ee1c.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.76bfbb6b.chunk.js": "/static/js/2.76bfbb6b.chunk.js",
-    "static/js/2.76bfbb6b.chunk.js.map": "/static/js/2.76bfbb6b.chunk.js.map",
-    "static/js/3.ec8ba955.chunk.js": "/static/js/3.ec8ba955.chunk.js",
-    "static/js/3.ec8ba955.chunk.js.map": "/static/js/3.ec8ba955.chunk.js.map",
+    "static/js/2.4b86afc6.chunk.js": "/static/js/2.4b86afc6.chunk.js",
+    "static/js/2.4b86afc6.chunk.js.map": "/static/js/2.4b86afc6.chunk.js.map",
+    "static/js/3.4b13d975.chunk.js": "/static/js/3.4b13d975.chunk.js",
+    "static/js/3.4b13d975.chunk.js.map": "/static/js/3.4b13d975.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.d8284e96.chunk.css.map": "/static/css/main.d8284e96.chunk.css.map",
-    "static/js/2.76bfbb6b.chunk.js.LICENSE.txt": "/static/js/2.76bfbb6b.chunk.js.LICENSE.txt",
+    "static/css/main.d3c17d91.chunk.css.map": "/static/css/main.d3c17d91.chunk.css.map",
+    "static/js/2.4b86afc6.chunk.js.LICENSE.txt": "/static/js/2.4b86afc6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/static/media/adobeaudition.afa937d5.svg",
@@ -161,10 +161,10 @@
     "static/media/yellowTheme-girl.641f7b0b.svg": "/static/media/yellowTheme-girl.641f7b0b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.970658dd.js",
+    "static/js/runtime-main.e0a5ee1c.js",
     "static/css/2.19627560.chunk.css",
-    "static/js/2.76bfbb6b.chunk.js",
-    "static/css/main.d8284e96.chunk.css",
-    "static/js/main.dbdf085c.chunk.js"
+    "static/js/2.4b86afc6.chunk.js",
+    "static/css/main.d3c17d91.chunk.css",
+    "static/js/main.f8e77891.chunk.js"
   ]
 }
